@@ -8,7 +8,7 @@
             "name": "(msvc) Launch",
             "type": "cppvsdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/prim.exe",
+            "program": "${workspaceFolder}/prim2.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",

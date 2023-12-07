@@ -11,8 +11,8 @@
 				"/Zi",
 				"/EHsc",
 				"/Fe:",
-				"prim.exe",
-				"prim.cpp"
+				"prim2.exe",
+				"prim2.cpp"
 				// "${fileDirname}\\${fileBasenameNoExtension}.exe",
 				// "${file}"
 			],
