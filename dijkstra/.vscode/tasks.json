@@ -11,8 +11,8 @@
 				"/Zi",
 				"/EHsc",
 				"/Fe:",
-				"dijkstra.exe",
-				"dijkstra.cpp"
+				"dijkstra2.exe",
+				"dijkstra2.cpp"
 				// "${fileDirname}\\${fileBasenameNoExtension}.exe",
 				// "${file}"
 			],
